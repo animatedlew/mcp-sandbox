@@ -1,0 +1,8 @@
+export ANTHROPIC_API_KEY=
+
+# Optional: Set debug mode for more verbose logging
+# export DEBUG=true
+
+# Optional: Configure workspace paths  
+# export MCP_WORKSPACE_DIR="./workspace"
+# export MCP_DATA_DIR="./data"
